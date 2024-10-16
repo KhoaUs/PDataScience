@@ -1,2 +1,2 @@
-# PDataScience
-Final project for Programing for Data Science
+# Programming for DataScience
+Final project for Programming for Data Science
