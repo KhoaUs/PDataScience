@@ -43,5 +43,7 @@ To set up and run the project locally, follow these steps:
 All tasks for this project are managed in a shared Google Sheet:
 - [Link to Google Sheet](https://docs.google.com/spreadsheets/d/1dDwL1W4yEtUcUiKdiU6mVOxeryt92b7GWEs9fI3jzUg/edit?usp=sharing)
 
+The project repository is available on GitHub:
+- [Link to GitHub Repository](https://github.com/KhoaUs/PDataScience)
 ## License
 This project is for educational purposes only and is not intended for commercial use.
